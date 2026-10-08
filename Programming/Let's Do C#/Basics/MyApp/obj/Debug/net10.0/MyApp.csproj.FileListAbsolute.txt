@@ -1,0 +1,15 @@
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\bin\Debug\net10.0\MyApp.exe
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\bin\Debug\net10.0\MyApp.deps.json
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\bin\Debug\net10.0\MyApp.runtimeconfig.json
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\bin\Debug\net10.0\MyApp.dll
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\bin\Debug\net10.0\MyApp.pdb
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfoInputs.cache
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfo.cs
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\MyApp.sourcelink.json
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\MyApp.dll
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\refint\MyApp.dll
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\MyApp.pdb
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
+D:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\MyApp\obj\Debug\net10.0\ref\MyApp.dll
