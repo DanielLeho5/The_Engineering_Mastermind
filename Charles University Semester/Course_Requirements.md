@@ -75,3 +75,5 @@ https://mj.ucw.cz/vyuka/2526/ads2/
 0. Be enrolled XD
 1. do homeworks / study diligently
 2. Exam at the end
+
+## ahoj
