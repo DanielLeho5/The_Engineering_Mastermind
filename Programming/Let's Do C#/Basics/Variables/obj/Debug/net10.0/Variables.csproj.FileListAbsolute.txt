@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\bin\Debug\net10.0\Variables.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\bin\Debug\net10.0\Variables.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\bin\Debug\net10.0\Variables.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\bin\Debug\net10.0\Variables.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\Variables.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\Variables.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\refint\Variables.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\Variables.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Variables\obj\Debug\net10.0\ref\Variables.dll

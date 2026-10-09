@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\bin\Debug\net10.0\Math.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\bin\Debug\net10.0\Math.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\bin\Debug\net10.0\Math.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\bin\Debug\net10.0\Math.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\bin\Debug\net10.0\Math.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\Math.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\Math.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\Math.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\Math.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\Math.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\refint\Math.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\Math.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\Math.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Math\obj\Debug\net10.0\ref\Math.dll

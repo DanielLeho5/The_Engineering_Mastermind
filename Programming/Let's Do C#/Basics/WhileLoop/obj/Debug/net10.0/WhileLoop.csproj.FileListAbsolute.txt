@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\bin\Debug\net10.0\WhileLoop.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\bin\Debug\net10.0\WhileLoop.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\bin\Debug\net10.0\WhileLoop.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\bin\Debug\net10.0\WhileLoop.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\bin\Debug\net10.0\WhileLoop.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\WhileLoop.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\WhileLoop.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\WhileLoop.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\WhileLoop.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\WhileLoop.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\refint\WhileLoop.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\WhileLoop.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\WhileLoop.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\WhileLoop\obj\Debug\net10.0\ref\WhileLoop.dll

@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\bin\Debug\net10.0\UserInput.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\bin\Debug\net10.0\UserInput.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\bin\Debug\net10.0\UserInput.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\bin\Debug\net10.0\UserInput.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\bin\Debug\net10.0\UserInput.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\UserInput.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\UserInput.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\UserInput.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\refint\UserInput.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\UserInput.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\UserInput.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\UserInput\obj\Debug\net10.0\ref\UserInput.dll

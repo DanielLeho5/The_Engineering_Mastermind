@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll

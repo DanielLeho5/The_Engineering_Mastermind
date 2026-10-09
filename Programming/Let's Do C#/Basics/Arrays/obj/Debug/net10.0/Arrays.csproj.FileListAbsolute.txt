@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\bin\Debug\net10.0\Arrays.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\bin\Debug\net10.0\Arrays.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\bin\Debug\net10.0\Arrays.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\bin\Debug\net10.0\Arrays.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\bin\Debug\net10.0\Arrays.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\Arrays.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\Arrays.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\Arrays.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\Arrays.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\Arrays.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\refint\Arrays.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\Arrays.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\Arrays.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Arrays\obj\Debug\net10.0\ref\Arrays.dll

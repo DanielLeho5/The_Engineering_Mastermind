@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\bin\Debug\net10.0\Output.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\bin\Debug\net10.0\Output.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\bin\Debug\net10.0\Output.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\bin\Debug\net10.0\Output.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\bin\Debug\net10.0\Output.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\Output.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\Output.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\Output.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\Output.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\Output.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\Output.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\refint\Output.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\Output.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\Output.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\Output\obj\Debug\net10.0\ref\Output.dll

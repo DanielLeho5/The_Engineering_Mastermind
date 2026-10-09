@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\bin\Debug\net10.0\IfElse.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\bin\Debug\net10.0\IfElse.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\bin\Debug\net10.0\IfElse.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\bin\Debug\net10.0\IfElse.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\bin\Debug\net10.0\IfElse.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\IfElse.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\IfElse.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\IfElse.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\IfElse.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\IfElse.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\refint\IfElse.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\IfElse.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\IfElse.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\IfElse\obj\Debug\net10.0\ref\IfElse.dll

@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\bin\Debug\net10.0\ForLoop.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\bin\Debug\net10.0\ForLoop.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\bin\Debug\net10.0\ForLoop.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\bin\Debug\net10.0\ForLoop.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\bin\Debug\net10.0\ForLoop.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\ForLoop.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\ForLoop.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\ForLoop.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\ForLoop.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\ForLoop.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\refint\ForLoop.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\ForLoop.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\ForLoop.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\ForLoop\obj\Debug\net10.0\ref\ForLoop.dll

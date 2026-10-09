@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\bin\Debug\net10.0\BreakContinue.exe
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\bin\Debug\net10.0\BreakContinue.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\bin\Debug\net10.0\BreakContinue.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\bin\Debug\net10.0\BreakContinue.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\bin\Debug\net10.0\BreakContinue.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\BreakContinue.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\BreakContinue.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\BreakContinue.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\BreakContinue.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\BreakContinue.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\refint\BreakContinue.dll
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\BreakContinue.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\BreakContinue.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Programming\Let's Do C#\Basics\BreakContinue\obj\Debug\net10.0\ref\BreakContinue.dll
