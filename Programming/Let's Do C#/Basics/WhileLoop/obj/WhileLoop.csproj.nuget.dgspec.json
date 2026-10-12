@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\WhileLoop.csproj": {}
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\WhileLoop.csproj": {}
   },
   "projects": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\WhileLoop.csproj": {
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\WhileLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\WhileLoop.csproj",
+        "projectUniqueName": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\WhileLoop.csproj",
         "projectName": "WhileLoop",
-        "projectPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\WhileLoop.csproj",
+        "projectPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\WhileLoop.csproj",
         "packagesPath": "C:\\Users\\LEHOC\\.nuget\\packages\\",
-        "outputPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\obj\\",
+        "outputPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\WhileLoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEHOC\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\Comments.csproj": {}
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\Comments.csproj": {}
   },
   "projects": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\Comments.csproj": {
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\Comments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\Comments.csproj",
+        "projectUniqueName": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\Comments.csproj",
         "projectName": "Comments",
-        "projectPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\Comments.csproj",
+        "projectPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\Comments.csproj",
         "packagesPath": "C:\\Users\\LEHOC\\.nuget\\packages\\",
-        "outputPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\obj\\",
+        "outputPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Comments\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEHOC\\AppData\\Roaming\\NuGet\\NuGet.Config"

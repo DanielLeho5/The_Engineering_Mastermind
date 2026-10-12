@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\DataTypes.csproj": {}
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\DataTypes.csproj": {}
   },
   "projects": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\DataTypes.csproj": {
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\DataTypes.csproj",
+        "projectUniqueName": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\DataTypes.csproj",
         "projectName": "DataTypes",
-        "projectPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\DataTypes.csproj",
+        "projectPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\DataTypes.csproj",
         "packagesPath": "C:\\Users\\LEHOC\\.nuget\\packages\\",
-        "outputPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\obj\\",
+        "outputPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEHOC\\AppData\\Roaming\\NuGet\\NuGet.Config"

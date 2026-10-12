@@ -39,7 +39,7 @@ https://ufal.mff.cuni.cz/courses/npfl129/2627-winter
     - questions are from the question bank @ 
     https://ufal.mff.cuni.cz/courses/npfl129/2627-winter#exam
 
-## Autmata and Computational Complexity
+## Automata and Computational Complexity
 https://mj.ucw.cz/vyuka/2627/acc/
 
 0. Lectures and Practicals
@@ -68,7 +68,28 @@ https://mj.ucw.cz/vyuka/2526/ads2/
     - solving given tasks
 
 2. Practicals
-    - info sheet
+    - Homework:
+        - through Postal Owl, with Markdown, KaTeX or PDF
+        - **oral** presentation of the homework
+    - 50% of homework points
+    - present one problem from each homework
+    - fail no more than one presenation
+
+    1. 05/10 String Search KMP
+    2. 12/10 String Search AC
+    3. 19/10 String Search RK - HW1: String search
+    
+    4. 26/10 Network Flows FF
+    5. 02/11 Network Flows Dinic
+    6. 09/11 Network Flows PRI - HW2: Network Flows
+    
+    7. 16/11 Fast and Parralel FFT
+    8. 23/11 Fast and Parralel Addit
+    9. 30/11 Fast and Parralel PSort - HW3: Fast and Parralel
+    
+    10. 07/12 Geo. Algorithms CHull
+    11. 14/12 Geo. Algorithms CHull
+    12. 04/01 Hardness - HW4: Geo and Hardness
 
 ## Czech course
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\Math.csproj": {}
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\Math.csproj": {}
   },
   "projects": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\Math.csproj": {
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\Math.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\Math.csproj",
+        "projectUniqueName": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\Math.csproj",
         "projectName": "Math",
-        "projectPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\Math.csproj",
+        "projectPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\Math.csproj",
         "packagesPath": "C:\\Users\\LEHOC\\.nuget\\packages\\",
-        "outputPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\obj\\",
+        "outputPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\Math\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEHOC\\AppData\\Roaming\\NuGet\\NuGet.Config"

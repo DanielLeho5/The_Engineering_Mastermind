@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\HelloWorld.csproj": {}
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\HelloWorld.csproj": {
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\LEHOC\\.nuget\\packages\\",
-        "outputPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\obj\\",
+        "outputPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Programming\\Let's Do C#\\Basics\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEHOC\\AppData\\Roaming\\NuGet\\NuGet.Config"
