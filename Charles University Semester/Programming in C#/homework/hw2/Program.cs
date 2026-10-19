@@ -1,73 +1,24 @@
-﻿using System.IO;
-class Program
+﻿public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        
         if (args.Length != 1)
         {
-            System.Console.WriteLine("Argument Error");
+            Console.WriteLine("Argument Error");
             return;
         }
 
-        string fileName = args[0];
-
-        if (!File.Exists(fileName))
+        try
         {
-            System.Console.WriteLine("File Error");
-            return;
-        }
+            WordFrequencyCounter wordCounter = new WordFrequencyCounter();
+            SortedDictionary<string, int> words = wordCounter.CountWords(args[0]);
 
-        SortedDictionary<string, int> words = new SortedDictionary<string, int>();
-        
-        foreach (string line in File.ReadLines(fileName))
+            DictionaryPrinter dp = new DictionaryPrinter();
+            dp.Print(words);
+        }
+        catch (Exception)
         {
-            string currentWord = "";
-
-            for (int i = 0; i < line.Length; i++)
-            {
-                if (!char.IsWhiteSpace(line[i]))
-                {
-                    currentWord += line[i];
-                }
-                else if (currentWord.Length > 0)
-                {
-                    if (words.ContainsKey(currentWord))
-                    {
-                        words[currentWord]++;
-                    }
-                    else
-                    {
-                        words[currentWord] = 1;
-                    }
-
-                    currentWord = "";
-                }
-            }
-            
-            if (currentWord.Length > 0)
-            {
-                if (words.ContainsKey(currentWord))
-                {
-                    words[currentWord]++;
-                }
-                else
-                {
-                    words[currentWord] = 1;
-                }
-            }
+            Console.WriteLine("File Error");
         }
-        
-        
-        for (int i = 0; i < words.Count; i++)
-        {
-            System.Console.WriteLine($"{words.ElementAt(i).Key}: {words.ElementAt(i).Value}");
-        }
-
-        /*
-        Dictionary<string, int> ads = new Dictionary<string, int>();
-        ads["hello"] = 1;
-        System.Console.WriteLine(ads.ElementAt(0));
-        System.Console.WriteLine(ads.Count);*/
     }
 }
