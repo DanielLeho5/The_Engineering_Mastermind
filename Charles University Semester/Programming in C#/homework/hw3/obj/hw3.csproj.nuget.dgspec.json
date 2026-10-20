@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\hw3.csproj": {}
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\hw3.csproj": {}
   },
   "projects": {
-    "d:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\hw3.csproj": {
+    "D:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\hw3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\hw3.csproj",
+        "projectUniqueName": "D:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\hw3.csproj",
         "projectName": "hw3",
-        "projectPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\hw3.csproj",
+        "projectPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\hw3.csproj",
         "packagesPath": "C:\\Users\\LEHOC\\.nuget\\packages\\",
-        "outputPath": "d:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\obj\\",
+        "outputPath": "D:\\Personal_Files\\The_Engineering_Mastermind\\Charles University Semester\\Programming in C#\\homework\\hw3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEHOC\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\bin\Debug\net10.0\hw3.exe
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\bin\Debug\net10.0\hw3.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\bin\Debug\net10.0\hw3.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\bin\Debug\net10.0\hw3.dll
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\bin\Debug\net10.0\hw3.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\hw3.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\hw3.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\hw3.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\hw3.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\hw3.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\hw3.dll
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\refint\hw3.dll
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\hw3.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\hw3.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw3\obj\Debug\net10.0\ref\hw3.dll

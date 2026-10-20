@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\hw4.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\hw4.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\hw4.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\hw4.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\hw4.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\bin\Debug\net10.0\hw4.exe
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\bin\Debug\net10.0\hw4.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\bin\Debug\net10.0\hw4.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\bin\Debug\net10.0\hw4.dll
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\bin\Debug\net10.0\hw4.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\hw4.dll
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\refint\hw4.dll
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\hw4.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\hw4.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\hw4\obj\Debug\net10.0\ref\hw4.dll

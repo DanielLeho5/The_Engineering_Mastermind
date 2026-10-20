@@ -10,11 +10,13 @@
 
         try
         {
-            WordFrequencyCounter wordCounter = new WordFrequencyCounter();
-            SortedDictionary<string, int> words = wordCounter.CountWords(args[0]);
+            ParagraphWordCounter wordCounter = new ParagraphWordCounter();
+            List<int> words = wordCounter.CountWords(args[0]);
 
-            DictionaryPrinter dp = new DictionaryPrinter();
-            dp.Print(words);
+            foreach (var item in words)
+            {
+                System.Console.WriteLine(item);
+            }
         }
         catch (Exception)
         {
