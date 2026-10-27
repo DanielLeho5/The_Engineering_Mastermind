@@ -1,4 +1,4 @@
-public class ParagraphWordCounter
+public class ParagraphWordCounter : IWordCounter
 {
     public List<int> CountWords(string fileName)
     {

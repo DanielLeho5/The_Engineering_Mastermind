@@ -1,4 +1,4 @@
-public class WordCounter
+public class WordCounter : IWordCounter
 {
     public int CountWords(string fileName)
     {

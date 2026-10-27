@@ -1,4 +1,4 @@
-public class WordFrequencyCounter
+public class WordFrequencyCounter : IWordCounter
 {
     public SortedDictionary<string, int> CountWords(string fileName)
     {
