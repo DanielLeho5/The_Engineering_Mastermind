@@ -1,0 +1,15 @@
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\bin\Debug\net10.0\lab_ex.exe
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\bin\Debug\net10.0\lab_ex.deps.json
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\bin\Debug\net10.0\lab_ex.runtimeconfig.json
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\bin\Debug\net10.0\lab_ex.dll
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\bin\Debug\net10.0\lab_ex.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\lab_ex.GeneratedMSBuildEditorConfig.editorconfig
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\lab_ex.AssemblyInfoInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\lab_ex.AssemblyInfo.cs
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\lab_ex.csproj.CoreCompileInputs.cache
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\lab_ex.sourcelink.json
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\lab_ex.dll
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\refint\lab_ex.dll
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\lab_ex.pdb
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\lab_ex.genruntimeconfig.cache
+d:\Personal_Files\The_Engineering_Mastermind\Charles University Semester\Programming in C#\homework\lab_ex\obj\Debug\net10.0\ref\lab_ex.dll
